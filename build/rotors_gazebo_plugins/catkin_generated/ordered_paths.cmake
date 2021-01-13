@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/joe/rotors_ws/devel/.private/rotors_control/lib;/opt/ros/melodic/lib")

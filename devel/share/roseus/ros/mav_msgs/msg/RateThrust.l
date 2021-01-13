@@ -1,0 +1,1 @@
+/home/joe/rotors_ws/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/RateThrust.l

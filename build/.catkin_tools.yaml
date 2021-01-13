@@ -1,0 +1,6 @@
+devel_space: /home/joe/rotors_ws/devel
+install: false
+install_space: /home/joe/rotors_ws/install
+profile: default
+source_space: /home/joe/rotors_ws/src
+workspace: /home/joe/rotors_ws
